@@ -1,4 +1,3 @@
-import Image from "next/image";
 import PlatformList from "@/components/platform-list";
 
 
